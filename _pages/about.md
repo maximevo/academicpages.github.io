@@ -15,13 +15,13 @@ I am a second-year master student in artificial intelligence at Stanford Univers
 
 Publications
 ======
-CAR-Net: Clairvoyant Attentive Recurrent Network
-Amir Sadeghian, Maxime Voisin, Ferdinand Legros, Alexandre Alahi, Silvio Savarese
-Submitted to CVPR 2018. 
+CAR-Net: Clairvoyant Attentive Recurrent Network  
+Amir Sadeghian, Maxime Voisin, Ferdinand Legros, Alexandre Alahi, Silvio Savarese  
+Submitted to CVPR 2018  
 
 
-An Improved Training Procedure for Neural Autoregressive Data Completion"
-Maxime Voisin, Daniel Ritchie
-Accepted at NIPS Workshop for Bayesian Deep Learning 2017. 
+An Improved Training Procedure for Neural Autoregressive Data Completion"  
+Maxime Voisin, Daniel Ritchie  
+Accepted at NIPS Workshop for Bayesian Deep Learning 2017  
 
 
