@@ -83,7 +83,7 @@ author:
   bio              : "Graduate student at Stanford University"
   location         : "Stanford, California"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
