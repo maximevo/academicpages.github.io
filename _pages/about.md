@@ -20,7 +20,7 @@ Amir Sadeghian, Maxime Voisin, Ferdinand Legros, Alexandre Alahi, Silvio Savares
 Submitted to CVPR 2018  
 
 
-An Improved Training Procedure for Neural Autoregressive Data Completion"  
+An Improved Training Procedure for Neural Autoregressive Data Completion  
 Maxime Voisin, Daniel Ritchie  
 Accepted at NIPS Workshop for Bayesian Deep Learning 2017  
 
