@@ -29,8 +29,8 @@ Accepted at NIPS 2017 Workshop for Bayesian Deep Learning
 
 Work Experience
 ======
-Research scientist intern in Deep Reinforcement Learning, Apple, 2017  
-Machine learning intern, Dataiku, 2016  
+Research scientist intern in Deep Reinforcement Learning, <a href="https://www.apple.com/">Apple</a>, 2017  
+Machine learning intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016  
 
 Teaching
 ======
