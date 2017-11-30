@@ -24,4 +24,8 @@ An Improved Training Procedure for Neural Autoregressive Data Completion
 Maxime Voisin, Daniel Ritchie  
 Accepted at NIPS Workshop for Bayesian Deep Learning 2017  
 
-
+Teaching
+======
+CS229 : Machine Learning (Fall 2017) with Professors Andrew Ng and Dan Boneh
+CS161 : Algorithms (Winter 2016) with Professor Gregory Valiant
+CS265 : Randomized Algorithms (Fall 2016) with Professor Gregory Valiant
