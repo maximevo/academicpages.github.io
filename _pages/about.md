@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate Research Assistant in artificial intelligence at Stanford University, advised by Daniel Ritchie and Silvio Savarese. I am interested in computer vision, unsupervized learning and statistical machine learning, and I am part of the <a href="http://cvgl.stanford.edu/projects/jackrabbot/">Stanford Computational Vision and Geometry Lab</a>.
+I am a graduate Research Assistant in artificial intelligence at Stanford University, advised by 
+<a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a> and
+<a href="https://dritchie.github.io/">Daniel Ritchie</a>. I am interested in computer vision, unsupervized learning and statistical machine learning, and I am part of the <a href="http://cvgl.stanford.edu/projects/jackrabbot/">Stanford Computational Vision and Geometry Lab</a>.
 
 Publications
 ======
@@ -16,10 +18,10 @@ CAR-Net: Clairvoyant Attentive Recurrent Network
 Amir Sadeghian, Maxime Voisin, Ferdinand Legros, Alexandre Alahi, Silvio Savarese  
 Submitted to CVPR 2018  
 
-
 An Improved Training Procedure for Neural Autoregressive Data Completion  
 Maxime Voisin, Daniel Ritchie  
 Accepted at NIPS Workshop for Bayesian Deep Learning 2017  
+<a href="https://arxiv.org/abs/1711.08598/">arXiv</a>  
 
 Teaching
 ======
