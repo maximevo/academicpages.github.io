@@ -15,7 +15,7 @@ I am a graduate Research Assistant in artificial intelligence at Stanford Univer
 Publications
 ======
 CAR-Net: Clairvoyant Attentive Recurrent Network  
-Amir Sadeghian, 
+<a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
 <a href="https://maximevo.github.io/">Maxime Voisin</a>
 , <a href="https://www.linkedin.com/in/ferdinand-legros-174ab154/">Ferdinand Legros</a>
 , 
