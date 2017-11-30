@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student in artificial intelligence at Stanford University, advised by Daniel Ritchie and Silvio Savarese. I am interested in computer vision, unsupervized learning and statistical machine learning, and I am part of the Stanford Computer Vision Laboratory.
-
+I am a graduate Research Assistant in artificial intelligence at Stanford University, advised by Daniel Ritchie and Silvio Savarese. I am interested in computer vision, unsupervized learning and statistical machine learning, and I am part of the Stanford Computational Vision and Geometry Lab.
 
 
 
