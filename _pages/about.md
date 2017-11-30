@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate Research Assistant in artificial intelligence at Stanford University, advised by Daniel Ritchie and Silvio Savarese. I am interested in computer vision, unsupervized learning and statistical machine learning, and I am part of the Stanford Computational Vision and Geometry Lab.
-
-
+I am a graduate Research Assistant in artificial intelligence at Stanford University, advised by Daniel Ritchie and Silvio Savarese. I am interested in computer vision, unsupervized learning and statistical machine learning, and I am part of the <a href="http://cvgl.stanford.edu/projects/jackrabbot/">Stanford Computational Vision and Geometry Lab</a>.
 
 Publications
 ======
