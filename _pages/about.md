@@ -30,6 +30,11 @@ An Improved Training Procedure for Neural Autoregressive Data Completion
 Accepted at NIPS 2017 Workshop for Bayesian Deep Learning  
 <a href="https://arxiv.org/abs/1711.08598/">arXiv</a>  
 
+Work Experience
+======
+Research scientist intern in Deep Reinforcement Learning, Apple, 2017  
+Machine learning intern, Dataiku, 2016  
+
 Teaching
 ======
 Teaching Assistant for graduate students in Computer Science at Stanford University.  
