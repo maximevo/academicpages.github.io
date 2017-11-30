@@ -15,11 +15,18 @@ I am a graduate Research Assistant in artificial intelligence at Stanford Univer
 Publications
 ======
 CAR-Net: Clairvoyant Attentive Recurrent Network  
-Amir Sadeghian, Maxime Voisin, Ferdinand Legros, Alexandre Alahi, Silvio Savarese  
+Amir Sadeghian, 
+<a href="https://maximevo.github.io/">Maxime Voisin</a>
+, <a href="https://www.linkedin.com/in/ferdinand-legros-174ab154/">Ferdinand Legros</a>
+, 
+<a href="http://web.stanford.edu/~alahi/">Alexandre Alahi</a>
+, 
+<a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>  
 Submitted to CVPR 2018  
 
 An Improved Training Procedure for Neural Autoregressive Data Completion  
-Maxime Voisin, Daniel Ritchie  
+<a href="https://maximevo.github.io/">Maxime Voisin</a>
+, <a href="https://dritchie.github.io/">Daniel Ritchie</a>  
 Accepted at NIPS 2017 Workshop for Bayesian Deep Learning  
 <a href="https://arxiv.org/abs/1711.08598/">arXiv</a>  
 
