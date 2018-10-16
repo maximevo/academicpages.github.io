@@ -21,6 +21,7 @@ CAR-Net: Clairvoyant Attentive Recurrent Network
 <a href="http://web.stanford.edu/~alahi/">Alexandre Alahi</a>, 
 <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>  
 Accepted at ECCV 2018  
+<a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Sadeghian_CAR-Net_Clairvoyant_Attentive_ECCV_2018_paper.pdf">paper</a>  
 
 An Improved Training Procedure for Neural Autoregressive Data Completion  
 <a href="https://maximevo.github.io/">Maxime Voisin</a>, <a href="https://dritchie.github.io/">Daniel Ritchie</a>  
