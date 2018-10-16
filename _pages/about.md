@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate Research Assistant in artificial intelligence at Stanford University, advised by Professors 
+I am a graduate Research Assistant in artificial intelligence at Stanford University. I had the chance to work in the labs of Professors 
+<a href="https://stanfordmlgroup.github.io/">Andrew Ng</a>,
 <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a> and
 <a href="https://dritchie.github.io/">Daniel Ritchie</a>. I am interested in computer vision, unsupervized learning and statistical machine learning, and I am part of the <a href="http://cvgl.stanford.edu/projects/jackrabbot/">Stanford Computational Vision and Geometry Lab</a>.
 
