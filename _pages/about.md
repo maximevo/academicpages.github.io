@@ -16,11 +16,11 @@ Publications
 ======
 CAR-Net: Clairvoyant Attentive Recurrent Network  
 <a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
-<a href="https://maximevo.github.io/">Maxime Voisin</a>,
-<a href="https://www.linkedin.com/in/ferdinand-legros-174ab154/">Ferdinand Legros</a>, 
+<a href="https://maximevo.github.io/">Maxime Voisin*</a>,
+<a href="https://www.linkedin.com/in/ferdinand-legros-174ab154/">Ferdinand Legros*</a>, 
 <a href="http://web.stanford.edu/~alahi/">Alexandre Alahi</a>, 
 <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>  
-Submitted to CVPR 2018  
+Accepted at ECCV 2018  
 
 An Improved Training Procedure for Neural Autoregressive Data Completion  
 <a href="https://maximevo.github.io/">Maxime Voisin</a>, <a href="https://dritchie.github.io/">Daniel Ritchie</a>  
