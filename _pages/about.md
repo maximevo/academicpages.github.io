@@ -22,8 +22,7 @@ Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography wi
 <a href="https://www.linkedin.com/in/anand-avati-126b53a/">Anand Avati</a>, 
 <a href="https://ai.stanford.edu/~awni/">Awni Hannun</a>, 
 <a href="https://stanfordmlgroup.github.io/">Andrew Ng</a>  
-<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>  
-<a href="https://arxiv.org/abs/1811.07774">paper</a>  
+<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>  <a href="https://arxiv.org/abs/1811.07774">arXiv</a>  
 
 CAR-Net: Clairvoyant Attentive Recurrent Network  
 <a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
