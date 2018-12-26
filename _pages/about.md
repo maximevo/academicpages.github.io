@@ -15,6 +15,16 @@ I am a graduate Research Assistant in artificial intelligence at Stanford Univer
 
 Publications
 ======
+Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
+<a href="https://maximevo.github.io/">Maxime Voisin*</a>,
+<a href="https://www.linkedin.com/in/yicheng-eddie-shen/">Yichen Shen*</a>, 
+<a href="https://www.linkedin.com/in/alireza-aliamiri-a5b0974/">Alireza Aliamiri</a>, 
+<a href="https://www.linkedin.com/in/anand-avati-126b53a/">Anand Avati</a>, 
+<a href="https://ai.stanford.edu/~awni/">Awni Hannun</a>, 
+<a href="https://stanfordmlgroup.github.io/">Andrew Ng</a>  
+<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>  
+<a href="https://arxiv.org/abs/1811.07774">paper</a>  
+
 CAR-Net: Clairvoyant Attentive Recurrent Network  
 <a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
 <a href="https://maximevo.github.io/">Maxime Voisin*</a>,
@@ -31,7 +41,7 @@ Accepted at NIPS 2017 Workshop for Bayesian Deep Learning
 
 Work Experience
 ======
-Research scientist intern in Deep Reinforcement Learning, <a href="https://www.apple.com/">Apple</a>, 2017  
+Research intern in Deep Reinforcement Learning, <a href="https://www.apple.com/">Apple</a>, 2017  
 Machine learning intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016  
 
 Teaching
