@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I graduated from Stanford University with an MS in Computer Science and an MS in Management Science & Engineering. At Stanford, I had the chance to work in the AI labs of Professors 
-<!-- <a href="https://stanfordmlgroup.github.io/">Andrew Ng</a> and 
+<a href="https://stanfordmlgroup.github.io/">Andrew Ng</a> and 
 <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>,
 as well as in the Bioengineering lab of Professor 
 <a href="http://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/">Manu Prakash</a>.
@@ -24,9 +24,9 @@ Octopi: Open configurable high-throughput imaging platform for infectious diseas
 <a href="https://www.linkedin.com/in/hazel-soto-montoya-1740a451/">Hazel Soto-Montoya\*</a>, 
 <a href="https://maximevo.github.io/"> <b>Maxime Voisin </b>\*</a>, 
 <a href="https://www.linkedin.com/in/lucas-fuentes-valenzuela-ab7b51b2/?originalSubdomain=be/">Lucas Fuentes Valenzuela\*</a>, 
-<a href="https://bioengineering.stanford.edu/people/manu-prakash/">Manu Prakash</a>.
-In submission
-<a href="https://www.biorxiv.org/content/10.1101/684423v1/">preprint</a>
+<a href="https://bioengineering.stanford.edu/people/manu-prakash/">Manu Prakash</a>.  
+In submission  
+<a href="https://www.biorxiv.org/content/10.1101/684423v1/">preprint</a>  
 
 Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
 <a href="https://maximevo.github.io/"><b>Maxime Voisin </b>\*</a>,
@@ -36,7 +36,7 @@ Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography wi
 <a href="https://ai.stanford.edu/~awni/">Awni Hannun</a>, 
 <a href="https://stanfordmlgroup.github.io/">Andrew Ng</a>  
 Accepted at KDD 2019 (oral presentation)  
-<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>, <a href="https://arxiv.org/abs/1811.07774"> paper </a>
+<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>, <a href="https://arxiv.org/abs/1811.07774"> paper </a>  
 
 CAR-Net: Clairvoyant Attentive Recurrent Network  
 <a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
@@ -55,11 +55,11 @@ Accepted at NIPS 2017 Workshop for Bayesian Deep Learning
 
 Work Experience
 ======
-Deep Learning intern, <a href="https://www.apple.com/">Apple</a>, 2017 
-Worked on deep reinforcement learning applications, at Apple Special Projects Group and Apple Maps
+Deep Learning intern, <a href="https://www.apple.com/">Apple</a>, 2017  
+Worked on deep reinforcement learning applications @ Apple Special Projects Group and Apple Maps  
 
 Data Science intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016  
-Implemented machine learning models to classify human activity based on accelerometer data
+Implemented machine learning models to classify human activity based on accelerometer data  
 Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>)  
 <a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a>  
 
@@ -76,4 +76,4 @@ Algorithms (Winter 2016) with Professor <a href="http://theory.stanford.edu/~val
 Randomized Algorithms and Probabilistic Analysis (Fall 2016) with Professor <a href="http://theory.stanford.edu/~valiant/">Gregory Valiant</a>
 
 Awards
-====== -->
+======
