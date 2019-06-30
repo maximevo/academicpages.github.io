@@ -62,7 +62,7 @@ Data Science intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016
 Implemented machine learning models to classify human activity based on accelerometer data  
 Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>)  
 <a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a> 
-<img src='/images/grandma.png'> 
+<img src='/images/grandma.jpg'> 
 
 Startup Projects
 ======
