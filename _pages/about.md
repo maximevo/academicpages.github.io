@@ -56,12 +56,13 @@ Accepted at NIPS 2017 Workshop for Bayesian Deep Learning
 Industry Experience
 ======
 
+<img src='/images/dataiku.jpg' width="120" height="120" align="left"/> 
 <p>
 	Deep Learning intern, <a style="text-decoration:none; color:inherit" href="https://www.apple.com/">Apple, 2017 <br />
 	Worked on deep reinforcement learning applications <br />
 </p>
 
-<img src='/images/dataiku.jpg' width="240" height="240" align="left"/> 
+<img src='/images/dataiku.jpg' width="120" height="120" align="left"/> 
 <p>
 	Data Science intern, <a style="text-decoration:none; color:inherit" href="https://www.dataiku.com/">Dataiku</a>, 2016 <br />
 	Implemented machine learning models to classify human activity based on accelerometer data <br />
