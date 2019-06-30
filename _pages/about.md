@@ -15,7 +15,7 @@ as well as in the Bioengineering lab of Professor
 <a href="http://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/">Manu Prakash</a>.
 When not in the lab, I spend my time working on startup projects and teaching.
 I care about improving the way people get informed about what's happening in the world.
-If you share that mission, please reach out!
+If you share this interest, let's connect!
 
 Research Publications
 ======
@@ -28,7 +28,7 @@ Octopi: Open configurable high-throughput imaging platform for infectious diseas
 In submission
 <a href="https://www.biorxiv.org/content/10.1101/684423v1/">preprint</a>
 
-Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
+<!-- Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
 <a href="https://maximevo.github.io/"><b>Maxime Voisin </b>\*</a>,
 <a href="https://www.linkedin.com/in/yicheng-eddie-shen/">Yichen Shen\*</a>, 
 <a href="https://www.linkedin.com/in/alireza-aliamiri-a5b0974/">Alireza Aliamiri</a>, 
@@ -76,4 +76,4 @@ Algorithms (Winter 2016) with Professor <a href="http://theory.stanford.edu/~val
 Randomized Algorithms and Probabilistic Analysis (Fall 2016) with Professor <a href="http://theory.stanford.edu/~valiant/">Gregory Valiant</a>
 
 Awards
-======
+====== -->
