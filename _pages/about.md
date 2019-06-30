@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I graduated from Stanford University with an MS in Computer Science and an MS in Management Science & Engineering. At Stanford, I had the chance to work in the AI labs of Professors 
-<a href="https://stanfordmlgroup.github.io/">Andrew Ng</a> and 
+<!-- <a href="https://stanfordmlgroup.github.io/">Andrew Ng</a> and 
 <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>,
 as well as in the Bioengineering lab of Professor 
 <a href="http://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/">Manu Prakash</a>.
@@ -28,7 +28,7 @@ Octopi: Open configurable high-throughput imaging platform for infectious diseas
 In submission
 <a href="https://www.biorxiv.org/content/10.1101/684423v1/">preprint</a>
 
-<!-- Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
+Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
 <a href="https://maximevo.github.io/"><b>Maxime Voisin </b>\*</a>,
 <a href="https://www.linkedin.com/in/yicheng-eddie-shen/">Yichen Shen\*</a>, 
 <a href="https://www.linkedin.com/in/alireza-aliamiri-a5b0974/">Alireza Aliamiri</a>, 
