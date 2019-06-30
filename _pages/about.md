@@ -56,11 +56,11 @@ Accepted at NIPS 2017 Workshop for Bayesian Deep Learning
 Work Experience
 ======
 Deep Learning intern, <a href="https://www.apple.com/">Apple</a>, 2017 
-Worked on deep reinforcement learning applications
+Worked on deep reinforcement learning applications, at Apple Special Projects Group and Apple Maps
 
 Data Science intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016  
-Implemented machine learning algorithms to classify human activity based on accelerometer data
-Algorithms achieved 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>)  
+Implemented machine learning models to classify human activity based on accelerometer data
+Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>)  
 <a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a>  
 
 
