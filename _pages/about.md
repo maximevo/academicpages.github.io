@@ -25,8 +25,8 @@ Octopi: Open configurable high-throughput imaging platform for infectious diseas
 <a href="https://maximevo.github.io/"> <b>Maxime Voisin</b>\*</a>, 
 <a href="https://www.linkedin.com/in/lucas-fuentes-valenzuela-ab7b51b2/?originalSubdomain=be/">Lucas Fuentes Valenzuela\*</a>, 
 <a href="https://bioengineering.stanford.edu/people/manu-prakash/">Manu Prakash</a>.  
-<br>In submission  
-<br><a href="https://www.biorxiv.org/content/10.1101/684423v1/">preprint</a>  
+In submission  
+<a href="https://www.biorxiv.org/content/10.1101/684423v1/">preprint</a>  
 
 Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
 <a href="https://maximevo.github.io/"><b>Maxime Voisin</b>\*</a>,
@@ -35,8 +35,8 @@ Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography wi
 <a href="https://www.linkedin.com/in/anand-avati-126b53a/">Anand Avati</a>, 
 <a href="https://ai.stanford.edu/~awni/">Awni Hannun</a>, 
 <a href="https://stanfordmlgroup.github.io/">Andrew Ng</a>  
-<br>Accepted at KDD 2019 (oral presentation)  
-<br><a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>, <a href="https://arxiv.org/abs/1811.07774"> paper </a>  
+Accepted at KDD 2019 (oral presentation)  
+<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>, <a href="https://arxiv.org/abs/1811.07774"> paper </a>  
 
 CAR-Net: Clairvoyant Attentive Recurrent Network  
 <a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
@@ -44,24 +44,24 @@ CAR-Net: Clairvoyant Attentive Recurrent Network
 <a href="https://maximevo.github.io/"><b>Maxime Voisin</b>\*</a>,
 <a href="http://web.stanford.edu/~alahi/">Alexandre Alahi</a>, 
 <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>  
-<br>Accepted at ECCV 2018  
-<br><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Sadeghian_CAR-Net_Clairvoyant_Attentive_ECCV_2018_paper.pdf">paper</a>  
+Accepted at ECCV 2018  
+<a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Sadeghian_CAR-Net_Clairvoyant_Attentive_ECCV_2018_paper.pdf">paper</a>  
 
 An Improved Training Procedure for Neural Autoregressive Data Completion  
 <a href="https://maximevo.github.io/"><b>Maxime Voisin</b></a>, 
 <a href="https://dritchie.github.io/">Daniel Ritchie</a>  
-<br>Accepted at NIPS 2017 Workshop for Bayesian Deep Learning  
-<br><a href="http://bayesiandeeplearning.org/2017/papers/74.pdf">paper</a>  
+Accepted at NIPS 2017 Workshop for Bayesian Deep Learning  
+<a href="http://bayesiandeeplearning.org/2017/papers/74.pdf">paper</a>  
 
 Work Experience
 ======
 Deep Learning intern, <a href="https://www.apple.com/">Apple</a>, 2017  
-<br>Worked on deep reinforcement learning applications @ Apple Special Projects Group and Apple Maps  
+Worked on deep reinforcement learning applications @ Apple Special Projects Group and Apple Maps  
 
 Data Science intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016  
-<br>Implemented machine learning models to classify human activity based on accelerometer data  
-<br>Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>)  
-<br><a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a> 
+Implemented machine learning models to classify human activity based on accelerometer data  
+Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>)  
+<a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a> 
 <img src='/images/grandma.png'> 
 
 Startup Projects
