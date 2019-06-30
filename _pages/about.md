@@ -15,6 +15,7 @@ as well as in the Bioengineering lab of Professor
 <a href="http://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/">Manu Prakash</a>.
 When not in the lab, I spend my time working on startup projects and teaching.
 I care about improving the way people get informed about what's happening in the world.
+If you share that mission, please reach out!
 
 Research Publications
 ======
@@ -38,15 +39,16 @@ Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography wi
 
 CAR-Net: Clairvoyant Attentive Recurrent Network  
 <a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
-<a href="https://maximevo.github.io/">Maxime Voisin\*</a>,
 <a href="https://www.linkedin.com/in/ferdinand-legros-174ab154/">Ferdinand Legros\*</a>, 
+<a href="https://maximevo.github.io/"><b>Maxime Voisin </b>\*</a>,
 <a href="http://web.stanford.edu/~alahi/">Alexandre Alahi</a>, 
 <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>  
 Accepted at ECCV 2018  
 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Sadeghian_CAR-Net_Clairvoyant_Attentive_ECCV_2018_paper.pdf">paper</a>  
 
 An Improved Training Procedure for Neural Autoregressive Data Completion  
-<a href="https://maximevo.github.io/">Maxime Voisin</a>, <a href="https://dritchie.github.io/">Daniel Ritchie</a>  
+<a href="https://maximevo.github.io/"><b>Maxime Voisin </b></a>, 
+<a href="https://dritchie.github.io/">Daniel Ritchie</a>  
 Accepted at NIPS 2017 Workshop for Bayesian Deep Learning  
 <a href="https://arxiv.org/abs/1711.08598/">arXiv</a>  
 
