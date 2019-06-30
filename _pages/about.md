@@ -24,7 +24,8 @@ Octopi: Open configurable high-throughput imaging platform for infectious diseas
 <a href="https://www.linkedin.com/in/hazel-soto-montoya-1740a451/">Hazel Soto-Montoya\*</a>, 
 <a href="https://maximevo.github.io/"> <b>Maxime Voisin </b>\*</a>, 
 <a href="https://www.linkedin.com/in/lucas-fuentes-valenzuela-ab7b51b2/?originalSubdomain=be/">Lucas Fuentes Valenzuela\*</a>, 
-<a href="https://bioengineering.stanford.edu/people/manu-prakash/">Manu Prakash</a>
+<a href="https://bioengineering.stanford.edu/people/manu-prakash/">Manu Prakash</a>.
+In submission
 <a href="https://www.biorxiv.org/content/10.1101/684423v1/">preprint</a>
 
 Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning  
@@ -34,8 +35,8 @@ Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography wi
 <a href="https://www.linkedin.com/in/anand-avati-126b53a/">Anand Avati</a>, 
 <a href="https://ai.stanford.edu/~awni/">Awni Hannun</a>, 
 <a href="https://stanfordmlgroup.github.io/">Andrew Ng</a>  
-<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>, <a href="https://arxiv.org/abs/1811.07774">KDD paper (oral presentation)</a>  
-
+Accepted at KDD 2019 (oral presentation)  
+<a href="https://stanfordmlgroup.github.io/projects/ppg/">blogpost</a>, <a href="https://arxiv.org/abs/1811.07774"> paper </a>
 
 CAR-Net: Clairvoyant Attentive Recurrent Network  
 <a href="https://www.linkedin.com/in/amirabs/">Amir Sadeghian</a>, 
@@ -50,12 +51,20 @@ An Improved Training Procedure for Neural Autoregressive Data Completion
 <a href="https://maximevo.github.io/"><b>Maxime Voisin </b></a>, 
 <a href="https://dritchie.github.io/">Daniel Ritchie</a>  
 Accepted at NIPS 2017 Workshop for Bayesian Deep Learning  
-<a href="https://arxiv.org/abs/1711.08598/">arXiv</a>  
+<a href="http://bayesiandeeplearning.org/2017/papers/74.pdf">paper</a>  
 
 Work Experience
 ======
-Research intern in Deep Reinforcement Learning, <a href="https://www.apple.com/">Apple</a>, 2017  
-Machine learning intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016  
+Deep Learning intern, <a href="https://www.apple.com/">Apple</a>, 2017 
+Worked on deep reinforcement learning applications
+
+Data Science intern, <a href="https://www.dataiku.com/">Dataiku</a>, 2016  
+Implemented machine learning algorithms to classify human activity based on accelerometer data
+Deployed algorithms in online machine learning competition \\ 
+<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>\\
+, achieved 2nd prize 
+<a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a>  
+
 
 Teaching
 ======
