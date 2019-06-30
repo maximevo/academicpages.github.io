@@ -53,18 +53,17 @@ An Improved Training Procedure for Neural Autoregressive Data Completion
 Accepted at NIPS 2017 Workshop for Bayesian Deep Learning  
 <a href="http://bayesiandeeplearning.org/2017/papers/74.pdf">paper</a>  
 
-Work Experience
+Industry Experience
 ======
 
 <p>
-	<b> Deep Learning intern, <a style="text-decoration:none; color:inherit" href="https://www.apple.com/">Apple, 2017 </b> <br />
+	Deep Learning intern, <a style="text-decoration:none; color:inherit" href="https://www.apple.com/">Apple, 2017 <br />
 	Worked on deep reinforcement learning applications <br />
 </p>
 
-<!-- <img src='/images/dataiku.jpg' width="240" height="240" align="left"/>  -->
-
+<img src='/images/dataiku.jpg' width="240" height="240" align="left"/> 
 <p>
-	<b> Data Science intern, <a style="text-decoration:none; color:inherit" href="https://www.dataiku.com/">Dataiku</a>, 2016 </b>  <br />
+	Data Science intern, <a style="text-decoration:none; color:inherit" href="https://www.dataiku.com/">Dataiku</a>, 2016 <br />
 	Implemented machine learning models to classify human activity based on accelerometer data <br />
 	Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData, 580 participants</a>) <br />
 	<a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a> <br />
