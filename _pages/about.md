@@ -57,8 +57,8 @@ Work Experience
 ======
 
 <p>
-	<b> Deep Learning intern, <a style="text-decoration:none; color:inherit" href="https://www.apple.com/">Apple</a>, 2017 </b>  
-	Worked on deep reinforcement learning applications @ Apple Special Projects Group and Apple Maps  
+	<b> Deep Learning intern, <a style="text-decoration:none; color:inherit" href="https://www.apple.com/">Apple (Special Projects Group and Maps) </a>, 2017 </b>  
+	Worked on deep reinforcement learning applications  
 </p>
 
 <!-- <img src='/images/dataiku.jpg' width="240" height="240" align="left"/>  -->
@@ -67,7 +67,7 @@ Work Experience
 	<b> Data Science intern, <a style="text-decoration:none; color:inherit" href="https://www.dataiku.com/">Dataiku</a>, 2016 </b>   
 	Implemented machine learning models to classify human activity based on accelerometer data  
 	Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData EPSRC challenge</a>)  
-	<a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a> 
+	<a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a>  
 </p>
 
 Startup Projects
