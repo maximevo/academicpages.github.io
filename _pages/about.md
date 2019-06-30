@@ -55,28 +55,21 @@ Accepted at NIPS 2017 Workshop for Bayesian Deep Learning
 
 Industry Experience
 ======
-<div id='container'>
-	<img src='/images/apple.jpg' width="80" height="80" style="float: left;"/> 
-	<p>
-		Deep Learning intern, <a style="text-decoration:none; color:inherit" href="https://www.apple.com/">Apple, 2017 <br />
-		Worked on deep reinforcement learning applications <br />
-	</p>
-</div>
+<p>
+	Deep Learning intern, <a style="text-decoration:none; color:inherit" href="https://www.apple.com/">Apple, 2017 <br />
+	Worked on deep reinforcement learning applications <br />
+</p>
 
-<div id='container'>
-	<img src='/images/dataiku.jpg' width="80" height="80" style="float: left;"/> 
-	<p>
-		Data Science intern, <a style="text-decoration:none; color:inherit" href="https://www.dataiku.com/">Dataiku</a>, 2016 <br />
-		Implemented machine learning models to classify human activity based on accelerometer data <br />
-		Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData, 580 participants</a>) <br />
-		<a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a> <br />
-	</p>
-</div>
+<p>
+	Data Science intern, <a style="text-decoration:none; color:inherit" href="https://www.dataiku.com/">Dataiku</a>, 2016 <br />
+	Implemented machine learning models to classify human activity based on accelerometer data <br />
+	Awarded 2nd prize in online machine learning competition (<a href="https://www.drivendata.org/competitions/42/senior-data-science-safe-aging-with-sphere/">DrivenData, 580 participants</a>) <br />
+	<a href="https://blog.dataiku.com/how-to-nearly-win-a-data-science-competition">blogpost</a> <br />
+</p>
 
 Startup Projects
 ======
-
-
+Coming soon
 
 
 Teaching
@@ -90,5 +83,3 @@ Algorithms (Winter 2016) with Professor <a href="http://theory.stanford.edu/~val
 <a href="http://theory.stanford.edu/~valiant/teaching/CS265/index.html">CS265/CME309</a>: 
 Randomized Algorithms and Probabilistic Analysis (Fall 2016) with Professor <a href="http://theory.stanford.edu/~valiant/">Gregory Valiant</a>
 
-Awards
-======
